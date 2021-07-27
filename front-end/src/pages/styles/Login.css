@@ -1,0 +1,7 @@
+.login-fix{
+    /* background: red; */
+    width: 30%;
+    display: table;
+    box-shadow: 2px 2px 5px 5px gray;
+    margin-top: 200px;
+}
